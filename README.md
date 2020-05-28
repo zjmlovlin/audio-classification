@@ -1,8 +1,4 @@
-# audio-classification
-audio classification  fastai
-=========
-
-
+Use fastai to classify audio data.By converting audio files into images,and then using the techniques of image classification to classify audio images.there are three audio-to-image conversion methods in the code.
 
 
     chroma image
