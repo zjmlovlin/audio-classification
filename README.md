@@ -17,7 +17,7 @@ Use fastai to classify audio data.By converting audio files into images,and then
 ![mfccs](https://github.com/zjmlovlin/audio-classification/blob/master/show_img/1-137-A-32-mfccs.jpg)
 
 #### Among the three features, melsec is the best, chroma is average, and mfccs is not good
-
+#### 三种特征中，melspec效果最好，chroma一般，mfccs效果不好
 ## How to use
     
     extractor_3feature.ipynb    -->    Feature extraction code for converting audio files into 3 different picture features
